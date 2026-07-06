@@ -20,6 +20,15 @@ I'm currently exploring AI-powered fashion technology, computer vision, and deep
 
 ## Projects
 
+---
+### Pin2Wear- Virtual Try On Web App 
+Built a full-stack web application that lets users browse outfits in a Pinterest-style feed and visualize how garments would look on them using AI-powered virtual try-on. Designed and implemented the frontend UI (feed, filtering, upload flow, results display), built a Flask backend to handle image preprocessing and relay requests to a diffusion-based try-on model (CatVTON) via Hugging Face, and deployed the full stack (Netlify + Render) with a live public demo.
+
+**Technologies Used:** HTML, CSS, JavaScript, Flask, Python, Pillow, Hugging Face (Gradio Client), Netlify, Render, Git/GitHub
+
+**Repository:** https://github.com/farehaadnan/Pin2Wear
+---
+
 ### ParkSense – Parkinson's Early Detection & Recommendation System
 
 Developed an AI-powered Parkinson's disease detection system using handwriting, voice, and gait analysis to generate an overall risk score with personalized recommendations.
@@ -28,17 +37,6 @@ Developed an AI-powered Parkinson's disease detection system using handwriting, 
 
 **Repository:** https://github.com/farehaadnan/parkinson-detection
 
----
-
-### MyFridge AI – AI-Powered Food Detection & Desi Recipe Recommendation System
-
-Developed a full-stack AI-powered application that detects Pakistani food items from real-world refrigerator images using YOLOv8 and generates personalized recipe recommendations based on the detected ingredients.
-
-**Technologies Used:** YOLOv8 • FastAPI • React TypeScript • OpenCV • Spoonacular API
-
-**Repository:** https://github.com/farehaadnan/my-fridge-ai
-
----
 
 ### Pakistan Sign Language to Urdu Recognition Model
 
