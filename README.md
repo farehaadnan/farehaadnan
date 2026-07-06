@@ -84,12 +84,6 @@ Developed a real-time Pakistani Sign Language (PSL) recognition system capable o
 * VS Code
 * Figma
 
-## GitHub Stats
-
-![Fareha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farehaadnan\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farehaadnan\&layout=compact\&theme=tokyonight)
-
 
 ## Connect With Me
 
